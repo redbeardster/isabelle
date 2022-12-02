@@ -1,4 +1,4 @@
-# isabelle examples, articles & so on
-# based on https://lawrencecpaulson.github.io/
+### isabelle examples, articles & so on
+### based on https://lawrencecpaulson.github.io/
 
 
